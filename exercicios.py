@@ -29,6 +29,9 @@ import math
 #     print("voce nao pode inserir 0 nos campos")
 
 # 5. Escreva um programa que calcule o quadrado de um número fornecido pelo usuário.
+# numero_01 = int(input("Insira um numero para calcular o valor dele ao quadrado: "))
+# resultado = numero_01 ** 2
+# print(resultado)
 
 # #### Números de Ponto Flutuante (`float`)
 
