@@ -14,6 +14,11 @@ import math
 # print(resultado)
 
 # 3. Desenvolva um programa que multiplique dois números fornecidos pelo usuário e mostre o resultado.
+# numero_01 = int(input("Insira um numero: "))
+# numero_02 = int(input("Insira outro numero: "))
+# resultado = numero_01 * numero_02
+# print(resultado)
+
 # 4. Faça um programa que peça dois números inteiros e imprima a divisão inteira do primeiro pelo segundo.
 # try:
 #     numero_01 = int(input("Inserir um numero inteiro:"))
