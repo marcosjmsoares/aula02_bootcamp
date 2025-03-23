@@ -42,6 +42,10 @@ import math
 # print(resultado)
 
 # 7. Crie um programa que calcule a média de dois números flutuantes fornecidos pelo usuário.
+numero_01 = float(input("Insira um numero decimal:"))
+numero_02 = float(input("Insira um outro numero decimal:"))
+resultado = a(numero_01+numero_02)/2
+print(resultado)
 # 8. Desenvolva um programa que calcule a potência de um número (base e expoente fornecidos pelo usuário).
 # 9. Faça um programa que converta a temperatura de Celsius para Fahrenheit.
 # 10. Escreva um programa que calcule a área de um círculo, recebendo o raio como entrada.
