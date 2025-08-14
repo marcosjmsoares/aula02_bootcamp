@@ -27,3 +27,13 @@
 # valor=int(input("Insira um valor: "))
 # calculo= valor*valor
 # print("O resultado do quadrado do número fornecido é " + str(calculo))
+
+# Números de Ponto Flutuante (float)
+# 6-Escreva um programa que receba dois números flutuantes e realize sua adição.
+valor1=float(input("Insira um valor: "))
+valor2=float(input("Insira um valor: "))
+print("A soma é " + str(valor1+valor2))
+# 7-Crie um programa que calcule a média de dois números flutuantes fornecidos pelo usuário.
+# 8-Desenvolva um programa que calcule a potência de um número (base e expoente fornecidos pelo usuário).
+# 9-Faça um programa que converta a temperatura de Celsius para Fahrenheit.
+# 10-Escreva um programa que calcule a área de um círculo, recebendo o raio como entrada.
