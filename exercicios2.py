@@ -12,9 +12,18 @@
 # print("O resto da divisão é: " + str(calculo))
 
 # 3-Desenvolva um programa que multiplique dois números fornecidos pelo usuário e mostre o resultado.
-valor1=int(input("Insira um valor: "))
-valor2=int(input("Insira outro valor: "))
-calculo = valor1 * valor2
-print("O resultado é: " + str(calculo))
+# valor1=int(input("Insira um valor: "))
+# valor2=int(input("Insira outro valor: "))
+# calculo = valor1 * valor2
+# print("O resultado é: " + str(calculo))
+
 # 4-Faça um programa que peça dois números inteiros e imprima a divisão inteira do primeiro pelo segundo.
+# valor1=int(input("Insira um valor: "))
+# valor2=int(input("Insira outro valor: "))
+# calculo = int(valor1/valor2)
+# print("O valor da divisão é " + str(calculo))
+
 # 5-Escreva um programa que calcule o quadrado de um número fornecido pelo usuário.
+# valor=int(input("Insira um valor: "))
+# calculo= valor*valor
+# print("O resultado do quadrado do número fornecido é " + str(calculo))
